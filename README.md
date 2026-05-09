@@ -1,9 +1,9 @@
 # 📊 Student Performance Analysis
 
 ## 👤 Student Information
-- **Name:** Your Name  
-- **Course:** Your Course Name  
-- **Institution:** Your University/College  
+- **Name:** Ahtihsam Manzoor
+- **Course:** AI  
+- **Institution:** Comsats University
 - **Project Type:** Git Workflow & Data Analysis Project  
 
 ---
